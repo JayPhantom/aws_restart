@@ -17,7 +17,6 @@ x = str(store_prime)
 
 #declare two variables
 string_prime=''
-content =" "
 
 #command to save converted prime numbers to results2.txt
 textfile = open('/Users/Jacob/Documents/AWS Resstart/results2.txt', 'w')
